@@ -10,3 +10,4 @@ I created this code to sort through a set of data provided by a video game compa
 
   The count of purchases that each gender group made, their average cost of items they purchase, Total ammount of revenue each gender group brought to the company, and the average   price that a single person in the gender 
 
+We then Group they data into age groups and add the groups to the main DF as column Age groups. Then calulate the count of eac unique players in each age group and what percentage of the total population they represent
