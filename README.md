@@ -14,4 +14,6 @@ I created this code to sort through a set of data provided by a video game compa
 
 * From there we run some calculations on the age groups such as total counts of purchases, average purchase price per age group, total revenue made from each age group, and average purchase ammount for the individuals in the age groups
 
-* 
+* To help assist with some promotions or advertising we wanted to see who our top five purchasers their count of purchases and the average purchase price of the purchases tha person made. To determin our tops we calculated who had spent the most money on Items.
+
+* Another helpful stat is to determin which Items are the most popular so that the company knows which ones to keep around and can maybe found out why theyre popular
