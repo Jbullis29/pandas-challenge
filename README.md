@@ -1,6 +1,6 @@
 # pandas-challenge
 
-I created this code to sort through a set of data provided by a video game company and return the values most relevant to the company This includes:
+#############I created this code to sort through a set of data provided by a video game company and return the values most relevant to the company This includes:
 
   * Total number of Unique Players playing the game
 
